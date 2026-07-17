@@ -132,6 +132,20 @@ The models were evaluated using:
 
 ---
 
+## ROC Curve
+![ROC Curve](roc_curve_all.png)
+
+---
+
+## Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+---
+
+## Feature Importance Heatmap
+![Feature Importance Heatmap](feauture_importance.png)
+
+---
 ## Key Findings
 
 - Ensemble learning methods consistently outperformed traditional machine learning algorithms.
